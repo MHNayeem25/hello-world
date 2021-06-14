@@ -15,7 +15,7 @@ while True:
     while True:
       x=input("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly.")
       if x not in ('h','l','c',' '):
-          print("Sorry, I did not understand your input.")
+          print("Sorry, I did not understand your input????")
           print("Is your secret number " + str(guess) + '?')
       else:
           break
