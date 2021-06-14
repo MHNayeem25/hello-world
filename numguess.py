@@ -8,7 +8,7 @@ low=0
 
 
 """This is a new branch"""
-"""Added a line on github website"""
+"""Added a line on github website stylr2222"""
 while True:
     guess=(high+low)//2
     print("Is your secret number " + str(guess) + '?')
