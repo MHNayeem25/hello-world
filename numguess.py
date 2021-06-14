@@ -1,8 +1,14 @@
 print("Please think of a number between 0 and 100!")
 high=100
 low=0
+""" hello this is test file that returns your number
+     Input -  low, high, correct
+     Output - The number you are thinking of """
 
-"""print("Is your secret number 50?")"""
+
+
+
+
 while True:
     guess=(high+low)//2
     print("Is your secret number " + str(guess) + '?')
